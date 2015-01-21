@@ -2,7 +2,7 @@
 title: "Peer Review Assigment"
 output: pdf_document
 ---
-========================================================
+=========================================================
 
 ## Automatic or Manual: Transmission type impact on car fuel consumption
 

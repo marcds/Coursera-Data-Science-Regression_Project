@@ -220,9 +220,7 @@ plot(d, xlab = "MPG", main ="Density Plot of MPG")
 boxplot(mpg ~ gear, data = mtcars, xlab = "Transmission type", ylab = "Miles per gallon")
 ```
 
-```
-## Error in eval(expr, envir, enclos): object 'transmission' not found
-```
+![plot of chunk unnamed-chunk-10](figure/unnamed-chunk-10-1.png) 
 
 #### Figure 3. Residuals plots
 
